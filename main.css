@@ -13,10 +13,11 @@ body {
     background-color: #1f2656 !important;
 }
     
-.buttonContainer,.author{
+.buttonContainer{
 text-align: center;
 }    
 .author{
+    text-align:center;
     color: #FFCC4D !important;
     font-size: 20px;
     margin-top: 20px;
