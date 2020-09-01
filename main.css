@@ -13,9 +13,14 @@ body {
     background-color: #1f2656 !important;
 }
     
-.buttonContainer{
+.buttonContainer,.author{
 text-align: center;
 }    
+.author{
+    color: #FFCC4D !important;
+    font-size: 20px;
+    margin-top: 20px;
+}
 .jumbotron.text-center{
     background-color: #1f2656 !important;
     margin-bottom:0 !important;
